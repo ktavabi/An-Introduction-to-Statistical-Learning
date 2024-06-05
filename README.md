@@ -1,8 +1,10 @@
 # [An-Introduction-to-Statistical-Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf)
 
+[[ISLR-Seventh-Printing.pdf]]
+
 This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning
 
-![alt text](https://images.springer.com/sgw/books/medium/9781461471370.jpg)
+![alt text](<ISL Cover 2.jpg>)
 
 An-Introduction-to-Statistical-Learning is one of the most popular books among data scientists to learn the conepts and intuitions behind
 machine learning algorithms, however, the exercises are implemented in R language, which is a hinderence for all those who are using python
